@@ -12,9 +12,17 @@ A Netflix-inspired web app built using **React.js**, **React Query**, and **The 
 
 - **React.js**
 - **React Query** (useQuery)
-- **Axios**
+- **React useState**
 - **TMDB API**
-- **CSS**
+
+---
+
+## Why those libraries?
+
+- **React.js** for makeing the UX/UI straightforward and understandable with less code, but clean and same performance code
+- **React Query** for calling API more easy
+- **React useState** for stating the variables efficiently
+- **TMDB API** for obtaining more reliable and accurate api
 
 ---
 
