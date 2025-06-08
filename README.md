@@ -1,2 +1,11 @@
-# Netflix_clone
-I made this project with swiper, useState, useQuery, styled-components, and TMDB movie api. This project is based on react js, so the wepsite can be more flexibe and usefull. The swiper library was used to create the swiper row of Top rated movie and popular movies. The useState library was used to create variable that contains the movie's title, overview, image's backdrop path, etc. The useQeury library was used to call the api into the App.js file so that I can access the api's data results on my App/js file. I used styled components library to write CSS diretly within my JS file , which allwed me to scope styles to specific components, to reduce class name conflicts, and to create more consistent and comfortable use interface.
+# Netflix Clone
+
+Netflix Clone is a package that made out of React Js, useState, useQuery, and TMDB movie api mainly.
+
+    - Alomost same UI/UX design with Netflix
+    - Straightforawrd so users can easily see what is what
+
+You can see which movies are trending or which movies were top rated without signing in!
+
+### More about Netflix Clone
+
