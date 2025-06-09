@@ -8,7 +8,7 @@ A Netflix-inspired web app built using **React.js**, **React Query**, and **The 
 - Explore trending and top-rated movies **without signing in**  
 - Fast and simple experience for movie lovers
 
-## Tech Stack
+## Tech Stack (Libraries used)
 
 - **React.js**
 - **React Query** (useQuery)
@@ -36,6 +36,12 @@ A Netflix-inspired web app built using **React.js**, **React Query**, and **The 
 
 ---
 
+## How to use Netflix Clone?
+
+- You may use Netflix Clone as an example, when you want to build your own movie application with flexible codes, but in easy and efficient way
+- You may use Netflix Clone, when you want t watch a movie but you are not sure what to watch, then you may use Netflix Clone to see what movies are trending and waht movies are popular!
+
+---
 ## Installation
 
 To run the project locally:
